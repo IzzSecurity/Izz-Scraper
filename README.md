@@ -1,2 +1,0 @@
-# Email-Scraper
-WEBSITE EMAIL SCRAPER
